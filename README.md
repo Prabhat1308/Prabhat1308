@@ -1,13 +1,26 @@
 ```                                                       
-                       88                              
-                       88                       ,d     
-                       88                       88     
-8b,dPPYba,  ,adPPYba,  88,dPPYba,   ,adPPYba, MM88MMM  
-88P'   "Y8 a8"     "8a 88P'    "8a a8"     "8a  88     
-88         8b       d8 88       d8 8b       d8  88     
-88         "8a,   ,a8" 88b,   ,a8" "8a,   ,a8"  88,    
-88          `"YbbdP"'  8Y"Ybbd8"'   `"YbbdP"'   "Y888  
 
+                              .-"""-.
+                            /`       `\
+     ,-==-.                ;           ;
+    /(    \`.              |           |
+   | \ ,-. \ (             :           ;
+    \ \`-.> ) 1             \         /
+     \_`.   | |              `._   _.`
+      \o_`-_|/                _|`"'|-.
+     /`  `>.  __          .-'`-|___|_ )    do you wanna a ride?
+    |\  (^  >'  `>-----._/             )   see yourself going by
+    | `._\ /    /      / |      ---   -;   the other side of the sky,
+    :     `|   (      (  |      ___  _/    ... it flys,
+     \     `.  `\      \_\      ___ _/     sideways through time,
+      `.     `-='`t----'  `--.______/      its an electric line
+        `.   ,-''-.)           |---|       to do your zodiac sign
+          `.(,-=-./             \_/                  (hawkwind)
+             |   |               V
+cjr          |-''`-.             `.
+2nov01      /  ,-'-.\              `-.
+           |  (      \                `.
+            \  \     |               ,.'
 ```
                                                        
 <!---
