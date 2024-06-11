@@ -3,6 +3,10 @@
 Prabhat1308/Prabhat1308 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+## Currently
+   Dev [Blockchain Society IITR](https://x.com/BlocSocIITR)
+   
 ## Achievements
 
 1. EthIndia2023 Winner (Arbitrum)
@@ -15,3 +19,8 @@ You can click the Preview link to take a look at your changes.
 
 1. [RPC-request Builder](https://github.com/NethermindEth/rpc-request-builder)
 2. [Dappicom](https://github.com/tonk-gg/dappicom)
+
+## Contacts 
+  *  twitter [probot](https://x.com/pr0b0t1sc00l)
+  *  email [mail](prabhatverma329@gmail.com)
+  *  blogs at [hashnode](probot.hashnode.dev)
