@@ -5,8 +5,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## Currently
-   Dev [Blockchain Society IITR](https://x.com/BlocSocIITR)
-   CP [rengoku69](https://codeforces.com/profile/rengoku69)
+   * Dev [Blockchain Society IITR](https://x.com/BlocSocIITR)
+   * CP [rengoku69](https://codeforces.com/profile/rengoku69)
    
 ## Achievements
 
