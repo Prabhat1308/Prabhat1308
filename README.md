@@ -22,6 +22,6 @@ You can click the Preview link to take a look at your changes.
 2. [Dappicom](https://github.com/tonk-gg/dappicom)
 
 ## Contacts 
-  *  twitter [probot](https://x.com/pr0b0t1sc00l)
-  *  email [mail](prabhatverma329@gmail.com)
-  *  blogs at [hashnode](probot.hashnode.dev)
+  *  Twitter [probot](https://x.com/pr0b0t1sc00l)
+  *  Email [mail](prabhatverma329@gmail.com)
+  *  Blogs at [hashnode](probot.hashnode.dev)
