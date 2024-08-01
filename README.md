@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 ## OSS Contributions
 
-1. [bitcoin-core](https://github.com/bitcoin/bitcoin/tree/master)
+1. [bitcoin-core](https://github.com/bitcoin/bitcoin)
 2. [rust-libp2p](https://github.com/libp2p/rust-libp2p)
 3. [noname](https://github.com/zksecurity/noname)
 4. [Dappicom](https://github.com/tonk-gg/dappicom)
