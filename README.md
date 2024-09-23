@@ -15,6 +15,7 @@ You can click the Preview link to take a look at your changes.
 3. Huffathon2023 Finalist
 4. INTER IIT Tech Meet 2023 Silver Medallist
 5. Summer of Bitcoin 2024 (Bitcoin core)
+6. EthSingapore Winner (EF)
 
 ## OSS Contributions
 
