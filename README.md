@@ -27,6 +27,6 @@ You can click the Preview link to take a look at your changes.
 
 ## Contacts 
   *  Twitter [probot](https://x.com/pr0b0t1sc00l)
-  *  Email [mail](prabhatverma329@gmail.com)
+  *  Email [mail](rengoku00769@proton.me)
   *  Blogs at [hashnode](probot.hashnode.dev)
   *  Telegram @Dedshock
