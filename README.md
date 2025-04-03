@@ -8,9 +8,12 @@ You can click the Preview link to take a look at your changes.
 
 1. [bitcoin-core](https://github.com/bitcoin/bitcoin)
 2. [rust-libp2p](https://github.com/libp2p/rust-libp2p)
-3. [noname](https://github.com/zksecurity/noname)
-4. [Dappicom](https://github.com/tonk-gg/dappicom)
-5. [RPC-request Builder](https://github.com/NethermindEth/rpc-request-builder)
+3. [go-libp2p](https://github.com/libp2p/go-libp2p)
+4. [noname](https://github.com/zksecurity/noname)
+5. [Dappicom](https://github.com/tonk-gg/dappicom)
+6. [RPC-request Builder](https://github.com/NethermindEth/rpc-request-builder)
+7. [sp1](https://github.com/succinctlabs/sp1)
+8. [rust-lightning](https://github.com/lightningdevkit/rust-lightning)
 
 ## Contacts 
   *  Twitter [probot](https://x.com/pr0b0t1sc00l)
